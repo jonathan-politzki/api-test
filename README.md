@@ -9,9 +9,9 @@ Jean enables any website or application to deeply understand its users through a
 Jean connects your Twitter personality to websites, so they can understand and adapt to you instantly. Instead of every website starting from scratch, they can immediately know how you think, write, and what matters to you.
 Think of it like letting websites 'meet you' through your Twitter presence - so they can give you a more personal, relevant experience right away.
 
-Takes the understanding Twitter has about you
-Makes it available to other websites
-So they can personalize your experience immediately
+1. Takes the understanding Twitter has about you
+2. Makes it available to other websites
+3. So they can personalize your experience immediately
 
 ## Quick Start
 
