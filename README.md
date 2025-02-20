@@ -2,16 +2,16 @@
 
 ## The Universal Gas Station for User Understanding
 
-Jean enables any website or application to deeply understand its users through a simple API call. Think of it as "Plaid for personality" - one connection unlocks personalized experiences everywhere.
+Jean enables any website or application to deeply understand its users through a simple API call. One connection unlocks personalized experiences everywhere.
 
 ## Why Jean?
 
-Today's internet treats everyone the same. Every visitor to your site sees identical content, layouts, and messaging. But your users aren't identical - they're individuals with unique preferences, behaviors, and needs.
+Jean connects your Twitter personality to websites, so they can understand and adapt to you instantly. Instead of every website starting from scratch, they can immediately know how you think, write, and what matters to you.
+Think of it like letting websites 'meet you' through your Twitter presence - so they can give you a more personal, relevant experience right away.
 
-Jean changes this by:
-- Providing deep user context through Twitter data analysis
-- Enabling real-time personalization at scale
-- Offering one simple integration for universal user understanding
+Takes the understanding Twitter has about you
+Makes it available to other websites
+So they can personalize your experience immediately
 
 ## Quick Start
 
